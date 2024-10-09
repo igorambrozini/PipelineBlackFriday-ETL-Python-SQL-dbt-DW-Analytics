@@ -1,0 +1,11 @@
+altair==5.4.1
+google-analytics-data==0.18.12
+google-auth==2.35.0
+google-auth-oauthlib==1.2.1
+numpy==2.1.2
+pandas==2.2.3
+pillow==10.4.0
+psycopg2-binary==2.9.9
+requests==2.32.3
+SQLAlchemy==2.0.35
+streamlit==1.39.0
