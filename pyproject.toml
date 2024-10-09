@@ -17,6 +17,7 @@ psycopg2-binary = "2.9.9"
 requests = "2.32.3"
 SQLAlchemy = "^2.0.34"
 streamlit = "1.39.0"
+python-dotenv = "^1.0.1"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
